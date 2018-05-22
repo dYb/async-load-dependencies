@@ -1,0 +1,12 @@
+*.ts
+*.map
+upload.js
+src/
+.babelrc
+.eslintrc
+.profile
+dist/openNewsapp.js
+rollup.config.js
+yarn.lock
+node_modules
+.vscode
